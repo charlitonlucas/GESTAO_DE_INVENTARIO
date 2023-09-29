@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ca7fdb55976d3110086d30d3f153af70" label="Produtos" max_length="40" name="x_1128577_gest_o_0_produtos" type="collection">
+        <element label="IMAGEM" max_length="40" name="imagem" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="ITEM" max_length="15" name="item" type="string"/>
+        <element label="QUANTIDADE" max_length="40" name="quantidade" type="integer"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

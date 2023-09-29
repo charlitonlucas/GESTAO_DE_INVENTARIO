@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="PEDIDOS Data Mapping" language="en" table="x_1128577_gest_o_0_ihub_import_da4dd06d97617110086d30d3f153afa8">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>PEDIDOS Data Mapping</label>
+            <language>en</language>
+            <name>x_1128577_gest_o_0_ihub_import_da4dd06d97617110086d30d3f153afa8</name>
+            <plural>PEDIDOS Data Mappings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-27 15:51:19</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>PEDIDOS Data Mapping</sys_name>
+            <sys_package display_value="Gestão de inventário" source="x_1128577_gest_o_0">b2e6531d972d3110086d30d3f153af5b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestão de inventário">b2e6531d972d3110086d30d3f153af5b</sys_scope>
+            <sys_update_name>sys_documentation_x_1128577_gest_o_0_ihub_import_da4dd06d97617110086d30d3f153afa8__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-27 15:51:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

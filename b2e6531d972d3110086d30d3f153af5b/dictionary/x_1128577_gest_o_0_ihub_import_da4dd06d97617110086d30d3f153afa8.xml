@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="40bd502197a17110086d30d3f153af4d" extends="sys_import_set_row" label="PEDIDOS Data Mapping" max_length="40" name="x_1128577_gest_o_0_ihub_import_da4dd06d97617110086d30d3f153afa8" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ENTREGA" label="ENTREGA" max_length="40" name="u_entrega" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=REFERENCIA" label="REFERENCIA" max_length="40" name="u_referencia" type="string"/>
+    </element>
+</database>

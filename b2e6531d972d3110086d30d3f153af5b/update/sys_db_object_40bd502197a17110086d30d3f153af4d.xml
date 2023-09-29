@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>PEDIDOS Data Mapping</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1128577_gest_o_0_ihub_import_da4dd06d97617110086d30d3f153afa8</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">0a0f50f2d423211095d7c105f1bf4341</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 15:51:19</sys_created_on>
+        <sys_id>40bd502197a17110086d30d3f153af4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gest O 0 Ihub Import Da4dd06d97617110086d30d3f153afa8</sys_name>
+        <sys_package display_value="Gestão de inventário" source="x_1128577_gest_o_0">b2e6531d972d3110086d30d3f153af5b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de inventário">b2e6531d972d3110086d30d3f153af5b</sys_scope>
+        <sys_update_name>sys_db_object_40bd502197a17110086d30d3f153af4d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 15:51:19</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

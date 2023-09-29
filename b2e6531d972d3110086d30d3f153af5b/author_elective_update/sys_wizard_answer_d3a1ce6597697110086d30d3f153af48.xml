@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>teste</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>teste</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">cd6f9cb6d423211095d7c105f1bf43f1</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 23:08:10</sys_created_on>
+        <sys_id>d3a1ce6597697110086d30d3f153af48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>teste</sys_name>
+        <sys_package display_value="Gestão de inventário" source="x_1128577_gest_o_0">b2e6531d972d3110086d30d3f153af5b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de inventário">b2e6531d972d3110086d30d3f153af5b</sys_scope>
+        <sys_update_name>sys_wizard_answer_d3a1ce6597697110086d30d3f153af48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 23:08:10</sys_updated_on>
+        <table/>
+        <target_url>x_1128577_gest_o_0_teste.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de inventário">b2e6531d972d3110086d30d3f153af5b</application>
+        <file_path/>
+        <instance_id>370572c41b6d091032182f8dee4bcb74</instance_id>
+        <instance_name>dev124785</instance_name>
+        <name>sys_wizard_answer_d3a1ce6597697110086d30d3f153af48</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>teste</answer><button_label/><dependent_value/><element/><name>teste</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">cd6f9cb6d423211095d7c105f1bf43f1</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 23:08:10</sys_created_on><sys_id>d3a1ce6597697110086d30d3f153af48</sys_id><sys_mod_count>0</sys_mod_count><sys_name>teste</sys_name><sys_package display_value="Gestão de inventário" source="x_1128577_gest_o_0">b2e6531d972d3110086d30d3f153af5b</sys_package><sys_policy/><sys_scope display_value="Gestão de inventário">b2e6531d972d3110086d30d3f153af5b</sys_scope><sys_update_name>sys_wizard_answer_d3a1ce6597697110086d30d3f153af48</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 23:08:10</sys_updated_on><table/><target_url>x_1128577_gest_o_0_teste.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>1339977394</payload_hash>
+        <record_name>teste</record_name>
+        <reverted_from/>
+        <source>1f6ec91097213110086d30d3f153af1f</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-09-23 22:11:51</sys_created_on>
+        <sys_id>54138ee597697110086d30d3f153af76</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18ac4195c580000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>14138ee5be697110e442b4f58c5ff276</update_guid>
+        <update_guid_history>14138ee5be697110e442b4f58c5ff276:1339977394</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 23:14:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>0ba2ab7b82d44788aaf7ef65ff91ba40</sys_id>
+        <sys_metadata>d3a1ce6597697110086d30d3f153af48</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>teste</sys_name>
+        <sys_package display_value="Gestão de inventário" source="x_1128577_gest_o_0">b2e6531d972d3110086d30d3f153af5b</sys_package>
+        <sys_parent display_value="Task">cd6f9cb6d423211095d7c105f1bf43f1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de inventário">b2e6531d972d3110086d30d3f153af5b</sys_scope>
+        <sys_scope_delete display_value="">1e7be4eb668741589889d21221eaa6e4</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_d3a1ce6597697110086d30d3f153af48</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_d3a1ce6597697110086d30d3f153af48">54138ee597697110086d30d3f153af76</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 23:14:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

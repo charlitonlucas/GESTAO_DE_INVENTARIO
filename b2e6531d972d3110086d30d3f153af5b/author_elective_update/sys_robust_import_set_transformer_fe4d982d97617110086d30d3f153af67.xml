@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="DELETE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for PEDIDOS Data Mapping</description>
+        <name>PEDIDOS Data Mapping_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine/>
+        <source_table>x_1128577_gest_o_0_ihub_import_da4dd06d97617110086d30d3f153afa8</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 15:49:35</sys_created_on>
+        <sys_id>fe4d982d97617110086d30d3f153af67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PEDIDOS Data Mapping_rte_ihub</sys_name>
+        <sys_package display_value="Gestão de inventário" source="x_1128577_gest_o_0">b2e6531d972d3110086d30d3f153af5b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de inventário">b2e6531d972d3110086d30d3f153af5b</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_fe4d982d97617110086d30d3f153af67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 15:49:35</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de inventário">b2e6531d972d3110086d30d3f153af5b</application>
+        <file_path/>
+        <instance_id>370572c41b6d091032182f8dee4bcb74</instance_id>
+        <instance_name>dev124785</instance_name>
+        <name>sys_robust_import_set_transformer_fe4d982d97617110086d30d3f153af67</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer"><sys_robust_import_set_transformer action="INSERT_OR_UPDATE"><active>true</active><batch_size>10</batch_size><description>RTE definition for PEDIDOS Data Mapping</description><name>PEDIDOS Data Mapping_rte_ihub</name><properties/><robust_transform_engine/><source_table>x_1128577_gest_o_0_ihub_import_da4dd06d97617110086d30d3f153afa8</source_table><sys_class_name>sys_robust_import_set_transformer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 15:49:35</sys_created_on><sys_id>fe4d982d97617110086d30d3f153af67</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PEDIDOS Data Mapping_rte_ihub</sys_name><sys_package display_value="Gestão de inventário" source="x_1128577_gest_o_0">b2e6531d972d3110086d30d3f153af5b</sys_package><sys_policy/><sys_scope display_value="Gestão de inventário">b2e6531d972d3110086d30d3f153af5b</sys_scope><sys_update_name>sys_robust_import_set_transformer_fe4d982d97617110086d30d3f153af67</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 15:49:35</sys_updated_on><verbose>false</verbose></sys_robust_import_set_transformer></record_update>]]></payload>
+        <payload_hash>-893429508</payload_hash>
+        <record_name>PEDIDOS Data Mapping_rte_ihub</record_name>
+        <reverted_from/>
+        <source>7ce12cb6d4a3211095d7c105f1bf439b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-27 15:51:43</sys_created_on>
+        <sys_id>86cd142197a17110086d30d3f153af02</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ad756c7a30000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-27 15:51:43</sys_updated_on>
+        <type>Robust Import Set Transformer</type>
+        <update_guid>82cd1421a6a1711035c8ebb74be30602</update_guid>
+        <update_guid_history>82cd1421a6a1711035c8ebb74be30602:0,f24d18ed0861711021fc94ec0e0e44f5:-824995611</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-27 15:51:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_robust_import_set_transformer">sys_robust_import_set_transformer</sys_db_object>
+        <sys_id>140d5223830b4d54a1fe0faf14f6c564</sys_id>
+        <sys_metadata>fe4d982d97617110086d30d3f153af67</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PEDIDOS Data Mapping_rte_ihub</sys_name>
+        <sys_package display_value="Gestão de inventário" source="x_1128577_gest_o_0">b2e6531d972d3110086d30d3f153af5b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de inventário">b2e6531d972d3110086d30d3f153af5b</sys_scope>
+        <sys_scope_delete display_value="">1e7be4eb668741589889d21221eaa6e4</sys_scope_delete>
+        <sys_update_name>sys_robust_import_set_transformer_fe4d982d97617110086d30d3f153af67</sys_update_name>
+        <sys_update_version display_value="sys_robust_import_set_transformer_fe4d982d97617110086d30d3f153af67">86cd142197a17110086d30d3f153af02</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-27 15:51:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
